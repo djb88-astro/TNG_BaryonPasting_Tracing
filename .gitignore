@@ -1,0 +1,20 @@
+# Compiled files
+*__pycache__*
+
+# MacOS
+*.DS_Store
+
+# Run submission files
+run_*
+
+# Various testing directories
+store/*
+
+# Additional examples
+Examples/*300*
+
+# Output directory
+output/
+
+# Run files
+std.*
