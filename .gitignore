@@ -17,4 +17,5 @@ Examples/*300*
 output/
 
 # Run files
+run.sh
 std.*
