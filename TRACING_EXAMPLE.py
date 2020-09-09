@@ -241,4 +241,4 @@ if __name__ == "__main__":
         select_massive_subhalos_with_redshift(mpi, x, data)
 
         save_data(mpi, x, data)
-        quit()
+
